@@ -1,0 +1,7 @@
+node_modules/
+*.xlsx
+*.xls
+*.csv
+bilancio-backup-*.json
+.DS_Store
+Thumbs.db
